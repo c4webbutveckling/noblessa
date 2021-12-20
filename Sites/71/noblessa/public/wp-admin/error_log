@@ -1,0 +1,7 @@
+[26-Nov-2021 14:56:16 UTC] WordPress databasfel för Table 'noblessa_wp_gi9js.wp_posts' doesn't exist förfrågan DELETE a,b,c
+    	FROM wp_posts a
+    	LEFT JOIN wp_term_relationships b
+        ON (a.ID = b.object_id)
+    	LEFT JOIN wp_postmeta c
+        ON (a.ID = c.post_id)
+    	WHERE a.post_type = 'nav_menu_item' skapat av do_action('betheme_page_be-websites'), WP_Hook->do_action, WP_Hook->apply_filters, Mfn_Importer->import, Mfn_Importer->remove_menus

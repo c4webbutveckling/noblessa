@@ -1,0 +1,10 @@
+2021-12-16T17:03:53+00:00 CRITICAL syntax error, unexpected '<', expecting end of file i /Users/marienilsson/Sites/71/noblessa/public/wp-content/themes/betheme-child/footer.php på rad 12
+
+2021-12-16T17:10:06+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) i /Users/marienilsson/Sites/71/noblessa/public/wp-content/themes/betheme-child/footer.php på rad 18
+
+2021-12-16T17:17:38+00:00 CRITICAL syntax error, unexpected '<', expecting end of file i /Users/marienilsson/Sites/71/noblessa/public/wp-content/themes/betheme-child/footer.php på rad 20
+
+2021-12-16T17:21:45+00:00 CRITICAL syntax error, unexpected '<', expecting end of file i /Users/marienilsson/Sites/71/noblessa/public/wp-content/themes/betheme-child/footer.php på rad 4
+
+2021-12-16T17:23:07+00:00 CRITICAL syntax error, unexpected 'boxar' (T_STRING), expecting ',' or ';' i /Users/marienilsson/Sites/71/noblessa/public/wp-content/themes/betheme-child/footer.php på rad 13
+
